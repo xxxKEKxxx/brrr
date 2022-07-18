@@ -37,7 +37,7 @@ info on how to fork https://www.youtube.com/watch?v=f5grYMXbAV0
 4. Add your wallet to settings.js file use bsc address make sure your adding it to the settings.js file in your fork 
 
 
-Fork ----------> Go to  https://www.netlify.com/ and deploy -------> add your bsc wallet to settings.js file  ------> done
+Fork ---------->  add your bsc wallet to settings.js file  ------> Go to  https://www.netlify.com/ and deploy
 
 
 
