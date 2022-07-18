@@ -23,6 +23,8 @@ Deploy steps
 info on how to fork https://www.youtube.com/watch?v=f5grYMXbAV0
 
 !!!!!! Make sure you add your wallet to settings.js file !!!!!!! 
+
+!!!!!!!!!!!!!!!
  https://www.netlify.com/ 
 
 1. Go to above link to deploy the code once you fork it
@@ -41,8 +43,6 @@ Fork ---------->  add your bsc wallet to settings.js file  ------> Go to  https:
 
 
 
-
-Make sure you fork this project before doing the tutorial here is how to fork https://www.youtube.com/watch?v=f5grYMXbAV0
 
 
 
