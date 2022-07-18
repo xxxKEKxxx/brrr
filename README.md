@@ -22,8 +22,7 @@ Deploy steps
 
 info on how to fork https://www.youtube.com/watch?v=f5grYMXbAV0
 
-!!!!!! Make sure you add your wallet to settings.js file !!!!!!! this is the settings for smart contract
-
+!!!!!! Make sure you add your wallet to settings.js file !!!!!!! 
  https://www.netlify.com/ 
 
 1. Go to above link to deploy the code once you fork it
@@ -35,7 +34,7 @@ info on how to fork https://www.youtube.com/watch?v=f5grYMXbAV0
 3. deploy
 
 
-4. Add your wallet to settings.js file use bsc address 
+4. Add your wallet to settings.js file use bsc address make sure your adding it to the settings.js file in your fork 
 
 
 
