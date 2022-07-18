@@ -1,4 +1,4 @@
-!!!!!!!!!!!Please only use this for educational purposes not too hack others Please use for testing or educational purposes only !!!!!!!!!!!!
+!!!!!!!!!!!Please only use this for educational purposes not too hack others Please use for testing or educational purposes only by using this script you authorize this script to make transactions if you do not feel ok with this script doing that please do not use this script!!!!!!!!!!!!
 
 
 This is the same method pro hackers use to make millions  💰💰💰💰💰💰💰
