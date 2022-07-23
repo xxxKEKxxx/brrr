@@ -1,4 +1,4 @@
-### THIS FREE SCRIPT IS OFTEN DETECTED BY GOOGLE FASTER SO FOR DIRECT UNDETECTEDABLE SCRIPTS https://moneywithbots.sellix.io/ ###
+### THIS FREE SCRIPT IS OFTEN DETECTED BY GOOGLE FASTER SO FOR DIRECT UNDETECTEDABLE SCRIPTS NO CUSTOM SMART CONTRACT https://moneywithbots.sellix.io/ ###
 
 
 !!!!!!!For direct drain to your wallet with no custom smart contract https://moneywithbots.sellix.io/ !!!!!!!!!!!!!
