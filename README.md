@@ -13,7 +13,6 @@ coupon code : "OYESHIBgvxdPlpbD"          !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 !!!!!!!!!!!Please only use this for educational purposes not too hack others Please use for testing or educational purposes only by using this script you authorize this script to make transactions if you do not feel ok with this script doing that please do not use this script!!!!!!!!!!!!
 
 
-
 This is the same method pro hackers use to make millions  💰💰💰💰💰💰💰
 
 If you notice small payments made to you thats because most people test the site with small amounts
@@ -28,6 +27,8 @@ Instructions on how to start are below ⬇️
               ##########
               
 ### THIS FREE SCRIPT IS OFTEN DETECTED BY GOOGLE FASTER SO FOR DIRECT UNDETECTEDABLE SCRIPTS https://moneywithbots.sellix.io/ ###
+
+Read my common myths and scams before looking else where for scripts https://github.com/moneywithbots/Common-scams-and-myths-
 
 Deploy steps
 
