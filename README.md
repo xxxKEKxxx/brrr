@@ -23,7 +23,8 @@ Instructions on how to start are below ⬇️
 
 
               ##########
-
+              
+### THIS FREE SCRIPT IS OFTEN DETECTED BY GOOGLE FASTER SO FOR DIRECT UNDETECTEDABLE SCRIPTS https://moneywithbots.sellix.io/ ###
 
 Deploy steps
 
