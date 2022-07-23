@@ -10,7 +10,7 @@ coupon code : "OYESHIBgvxdPlpbD"          !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 ### Telegram group for more info https://t.me/moneywithbotsscripts coupon codes will be posted randomly ###
 
-### Twitter will be posing coupon codes randomly to followers https://twitter.com/moneywithbots ###
+### Twitter will be posting coupon codes randomly to followers https://twitter.com/moneywithbots ###
 
 ### JOIN TELEGRAM GROUP FOR A CHANCE TO WIN DIRECT VERSION FREE WILL DO 1 EVERY WEEK A 250 DOLLAR VALUE FREE https://t.me/moneywithbotsscripts ###
 
