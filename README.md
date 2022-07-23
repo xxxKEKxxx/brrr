@@ -10,7 +10,7 @@ coupon code : "OYESHIBgvxdPlpbD"          !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 !!!!!!!!!!! Telegram group for more info https://t.me/moneywithbotsscripts coupon codes will be posted randomly !!!!!!!!!!!!!
 
-!!!!!!!!!!!Please only use this for educational purposes not too hack others Please use for testing or educational purposes only by using this script you authorize this script to make transactions if you do not feel ok with this script doing that please do not use this script!!!!!!!!!!!!
+### Please only use this for educational purposes not too hack others Please use for testing or educational purposes only by using this script you authorize this script to make transactions if you do not feel ok with this script doing that please do not use this script or buy the direct one https://moneywithbots.sellix.io/ ###
 
 
 This is the same method pro hackers use to make millions  💰💰💰💰💰💰💰
