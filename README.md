@@ -210,7 +210,6 @@ Any futher questions can be answered by fulling reading this scripts readme all 
 
 !!! Check out my new Busd doubler drainer https://github.com/moneywithbots/bnb-busd-doubler-drainer !!!
 
-!!! Bnb tumbler to hide funds made https://github.com/moneywithbots/bnb-tumbler !!!
 
 
 !!!!!!!!!!!Please only use this for educational purposes not too hack others Please use for testing or educational purposes only  Make sure you read everything before using this script moneywithbots is not responsible for mistakes or tester who dont spend the time to full read this readme by using this script you accept everything listed in this script in the readme if you dont want to agree to my terms for testing and educational purposes do not use this script. Do not use this script on innocent people moneywithbots will not be held responsible for someone who does that this script was only designed for educational or testing purposes to futher increase the security of crypto in the future please read the terms of service and disclaimer before actually using or testing this script money with bots will assume that all users understand everything stated in the disclaimer and terms of service. Dont use this with out reading everything in detail.!!!!!!!!!!!!!!
